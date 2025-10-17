@@ -77,6 +77,3 @@ In broader terms, this aligns with the understanding that:
 | Model | `bert-tiny` (SQuAD v2 fine-tuned) | Lightweight and task-aligned |
 | Fine-tuning | LoRA and Prompt Tuning | Compare efficiency and performance |
 | Result | LoRA superior | Direct weight adaptation more effective |
-
-
-
